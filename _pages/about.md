@@ -12,4 +12,4 @@ Huynh received his Bachelor degree in Electronics and Telecommunications from Ha
 
 **CURRENT AND PAST AFFILIATIONS**
 
-<img src="/images/Logo_Hust.png" width="47" height="100">
+<img src="/images/Logo_Hust.png" width="200" height="295"> <img src="/images/NTU_Logo.png" width="200" height="75">
